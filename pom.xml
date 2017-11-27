@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.paytm</groupId>
-	<artifactId>ApplicationMonitoringService</artifactId>
+	<artifactId>ApplicationMonitoringSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ApplicationMonitoringService</name>
+	<name>ApplicationMonitoringSystem</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
