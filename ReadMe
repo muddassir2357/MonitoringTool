@@ -1,0 +1,6 @@
+1)Api to be monitored can be added from panel.Should be in raw curl form.
+2)People can add the reason that why there system is down.People can notify that there system is up and they can start working.
+3)Reason for down should be shown on PMS
+4)Scheduler to run test at a frequency.Frequency can be changed and scheduler can be stopped also by admin.
+Api to be made to start and stop scheduler.Will require a secret key authentication
+5)All spocs of system should be visible from panel
